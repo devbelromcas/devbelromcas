@@ -1,4 +1,55 @@
-## Hi there 👋
+# ¡Hola, soy Belén!, 
+
+Desarrolladora de aplicaciones web, combino mi formación técnica con una sólida experiencia en organización y trabajo en equipo para desarrollar proyectos web eficientes.
+
+### Sobre mí
+
+- [cite_start]🎓 **Estudios:** Técnico Superior en Desarrollo de Aplicaciones Web (GS) [cite: 26] [cite_start]y Técnica en Farmacia y Parafarmacia (GM)[cite: 27].
+- [cite_start]🌍 **Experiencia:** He trabajado en sectores dinámicos y de alta precisión, incluyendo estancias logísticas internacionales en Alemania[cite: 34, 38, 41].
+- [cite_start]🚀 **Enfoque actual:** Profundizando en React y Next.js[cite: 10, 12].
+
+### Tecnologías y Herramientas
+
+#### Frontend & Frameworks
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Backend & Bases de Datos
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Entornos
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### Proyecto Destacado
+
+[cite_start]🔍 **[Lectum](https://github.com/devbelromcas/lectum-biblioteca)** 
+[cite_start]Plataforma web diseñada para descubrir libros, organizar lecturas y comparar precios.
+- [cite_start]**Stack:** Desarrollado con una arquitectura MVC para garantizar modularidad[cite: 12, 48].
+- [cite_start]**Features:** Implementación de lógica de filtrado avanzado y un comparador funcional para mejorar la experiencia de usuario.
+
+### 📊 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbelromcas&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Belén" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelromcas&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" height="150" />
+</p>
+
+### Conectemos
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/belenromerocastro/
+- [cite_start]📧 **Email:** devbelromcas@gmail.com [cite: 4]
 
 <!--
 **devbelromcas/devbelromcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
