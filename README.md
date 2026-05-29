@@ -34,22 +34,15 @@ Desarrolladora de aplicaciones web, combino mi formación técnica con una sóli
 
 ### Proyecto Destacado
 
-[cite_start]🔍 **[Lectum](https://github.com/devbelromcas/lectum-biblioteca)** 
-[cite_start]Plataforma web diseñada para descubrir libros, organizar lecturas y comparar precios.
-- [cite_start]**Stack:** Desarrollado con una arquitectura MVC para garantizar modularidad[cite: 12, 48].
-- [cite_start]**Features:** Implementación de lógica de filtrado avanzado y un comparador funcional para mejorar la experiencia de usuario.
-
-### 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbelromcas&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Belén" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbelromcas&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" height="150" />
-</p>
+**[Lectum](https://github.com/devbelromcas/lectum-biblioteca)** 
+Plataforma web diseñada para descubrir libros, organizar lecturas y comparar precios.
+- **Stack:** Desarrollado con una arquitectura MVC para garantizar modularidad[cite: 12, 48].
+- Implementación de lógica de filtrado avanzado y un comparador funcional para mejorar la experiencia de usuario.
 
 ### Conectemos
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/belenromerocastro/
-- [cite_start]📧 **Email:** devbelromcas@gmail.com [cite: 4]
+- 📧 **Email:** devbelromcas@gmail.com
 
 <!--
 **devbelromcas/devbelromcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
