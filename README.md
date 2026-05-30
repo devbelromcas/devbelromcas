@@ -5,7 +5,7 @@ Desarrolladora de Aplicaciones Web, combino mi formación técnica con una sóli
 ### Sobre mí
 
 - **Estudios:** Técnico Superior en Desarrollo de Aplicaciones Web (GS) y Técnica en Farmacia y Parafarmacia (GM).
-- **Experiencia:** He trabajado en sectores dinámicos y de alta precisión, incluyendo estancias logísticas internacionales en Alemania.
+- **Experiencia:** He trabajado en distintos sectores, incluyendo estancias internacionales en Alemania.
 - **Enfoque actual:** Profundizando en React y Next.js.
 
 ### Tecnologías y Herramientas
