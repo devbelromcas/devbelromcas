@@ -1,12 +1,12 @@
 # ¡Hola, soy Belén!, 
 
-Desarrolladora de aplicaciones web, combino mi formación técnica con una sólida experiencia en organización y trabajo en equipo para desarrollar proyectos web eficientes.
+Desarrolladora de Aplicaciones Web, combino mi formación técnica con una sólida experiencia en organización y trabajo en equipo para desarrollar proyectos web eficientes.
 
 ### Sobre mí
 
-- [cite_start]🎓 **Estudios:** Técnico Superior en Desarrollo de Aplicaciones Web (GS) [cite: 26] [cite_start]y Técnica en Farmacia y Parafarmacia (GM)[cite: 27].
-- [cite_start]🌍 **Experiencia:** He trabajado en sectores dinámicos y de alta precisión, incluyendo estancias logísticas internacionales en Alemania[cite: 34, 38, 41].
-- [cite_start]🚀 **Enfoque actual:** Profundizando en React y Next.js[cite: 10, 12].
+- **Estudios:** Técnico Superior en Desarrollo de Aplicaciones Web (GS) y Técnica en Farmacia y Parafarmacia (GM).
+- **Experiencia:** He trabajado en sectores dinámicos y de alta precisión, incluyendo estancias logísticas internacionales en Alemania.
+- **Enfoque actual:** Profundizando en React y Next.js.
 
 ### Tecnologías y Herramientas
 
@@ -35,8 +35,8 @@ Desarrolladora de aplicaciones web, combino mi formación técnica con una sóli
 ### Proyecto Destacado
 
 **[Lectum](https://github.com/devbelromcas/lectum-biblioteca)** 
-Plataforma web diseñada para descubrir libros, organizar lecturas y comparar precios.
-- **Stack:** Desarrollado con una arquitectura MVC para garantizar modularidad[cite: 12, 48].
+- Plataforma web diseñada para descubrir libros, organizar lecturas y comparar precios.
+- **Stack:** Desarrollado con una arquitectura MVC para garantizar modularidad.
 - Implementación de lógica de filtrado avanzado y un comparador funcional para mejorar la experiencia de usuario.
 
 ### Conectemos
